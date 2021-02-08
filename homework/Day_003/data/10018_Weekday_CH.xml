@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>5d099276-f346-4b73-a358-48373f5f0dfa</identifier>
+  <identifier>b2656e60-3468-41b6-ab23-f4c3a3433f50</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2021-02-07T17:01:04+08:00</sent>
+  <sent>2021-02-08T12:20:39+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐12小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2021-02-07T17:00:00+08:00</issueTime>
+      <issueTime>2021-02-08T11:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2021-02-07T18:00:00+08:00</startTime>
-        <endTime>2021-02-15T17:00:00+08:00</endTime>
+        <startTime>2021-02-08T12:00:00+08:00</startTime>
+        <endTime>2021-02-16T11:00:00+08:00</endTime>
       </validTime>
-      <update>2021-02-07T17:01:04+08:00</update>
+      <update>2021-02-08T12:20:39+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>新竹市</locationsName>
@@ -30,18 +30,10 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>19</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -113,7 +105,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -129,7 +121,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -154,15 +146,7 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>15</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>16</value>
@@ -181,7 +165,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -197,7 +181,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -213,7 +197,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -221,7 +205,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -229,7 +213,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -253,7 +237,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -269,7 +253,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -278,18 +262,10 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>80</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>74</value>
+              <value>70</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -297,7 +273,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>68</value>
+              <value>70</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -305,7 +281,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>65</value>
+              <value>69</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -313,7 +289,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>76</value>
+              <value>77</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -329,7 +305,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>90</value>
+              <value>89</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -337,7 +313,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>74</value>
+              <value>87</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -345,7 +321,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>80</value>
+              <value>88</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -353,7 +329,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>75</value>
+              <value>78</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -361,7 +337,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>82</value>
+              <value>80</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -369,7 +345,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>80</value>
+              <value>84</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -377,7 +353,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>91</value>
+              <value>85</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -402,15 +378,7 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>21</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>23</value>
@@ -429,7 +397,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>23</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -477,7 +445,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -501,7 +469,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -517,7 +485,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -526,18 +494,10 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>17</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -561,7 +521,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -625,7 +585,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -641,7 +601,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -650,18 +610,10 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>19</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -677,7 +629,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -693,7 +645,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>24</value>
+              <value>26</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -701,7 +653,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -709,7 +661,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -717,7 +669,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -725,7 +677,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -733,7 +685,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -741,7 +693,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -749,7 +701,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -757,7 +709,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -765,7 +717,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -774,15 +726,7 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -801,7 +745,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>10</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -809,7 +753,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -817,7 +761,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -825,7 +769,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -833,7 +777,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -841,7 +785,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -849,7 +793,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -857,7 +801,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -865,7 +809,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -873,7 +817,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -881,7 +825,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -889,7 +833,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -898,15 +842,7 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>20</value>
-              <measures>NA </measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>22</value>
@@ -957,7 +893,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -973,7 +909,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -989,7 +925,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -1022,18 +958,10 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>19</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1129,7 +1057,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1137,7 +1065,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1146,15 +1074,7 @@
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>0</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
@@ -1270,15 +1190,7 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>8方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
@@ -1313,7 +1225,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1321,7 +1233,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>偏南風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1329,7 +1241,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1337,7 +1249,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1345,7 +1257,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1353,7 +1265,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1377,7 +1289,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>東北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1385,7 +1297,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>東北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -1394,19 +1306,7 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>&gt;= 11</value>
@@ -1433,11 +1333,11 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>&gt;= 11</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>&gt;= 6</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1445,53 +1345,17 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>7</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
           <time>
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-10T18:00:00+08:00</startTime>
-            <endTime>2021-02-11T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-11T06:00:00+08:00</startTime>
-            <endTime>2021-02-11T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>3</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>2</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-11T18:00:00+08:00</startTime>
-            <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
               <value>4</value>
               <measures>公尺/秒</measures>
@@ -1502,20 +1366,8 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2021-02-12T06:00:00+08:00</startTime>
-            <endTime>2021-02-12T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-12T18:00:00+08:00</startTime>
-            <endTime>2021-02-13T06:00:00+08:00</endTime>
+            <startTime>2021-02-10T18:00:00+08:00</startTime>
+            <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
               <value>6</value>
               <measures>公尺/秒</measures>
@@ -1526,14 +1378,62 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2021-02-13T06:00:00+08:00</startTime>
-            <endTime>2021-02-13T18:00:00+08:00</endTime>
+            <startTime>2021-02-11T06:00:00+08:00</startTime>
+            <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>9</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-11T18:00:00+08:00</startTime>
+            <endTime>2021-02-12T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>6</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
               <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-12T06:00:00+08:00</startTime>
+            <endTime>2021-02-12T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>8</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-12T18:00:00+08:00</startTime>
+            <endTime>2021-02-13T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>8</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-13T06:00:00+08:00</startTime>
+            <endTime>2021-02-13T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>8</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1541,11 +1441,11 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>6</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1553,11 +1453,11 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1565,11 +1465,11 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>4</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1578,19 +1478,7 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>02</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
@@ -1605,11 +1493,11 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>02</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1617,11 +1505,11 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>03</value>
+              <value>04</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1641,11 +1529,11 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>多雲時陰短暫雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>09</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1653,11 +1541,11 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨</value>
+              <value>陰短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>15</value>
+              <value>18</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1665,11 +1553,11 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨</value>
+              <value>多雲短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>15</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1689,11 +1577,11 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1713,11 +1601,11 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>陰時多雲</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>06</value>
+              <value>04</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1725,11 +1613,11 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>03</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1737,11 +1625,11 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1762,7 +1650,7 @@
           <elementName>UVI</elementName>
           <description>紫外線指數</description>
           <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>6</value>
@@ -1777,7 +1665,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1789,7 +1677,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1801,7 +1689,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1825,7 +1713,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1837,7 +1725,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1850,18 +1738,10 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏17至21度。稍有寒意至舒適。東北風 風速3級(每秒4公尺)。相對濕度80%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度74%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏20至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒12公尺)。相對濕度70%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1869,7 +1749,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒12公尺)。相對濕度68%。</value>
+              <value>多雲時晴。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度70%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1877,7 +1757,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。降雨機率 10%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度65%。</value>
+              <value>多雲。降雨機率 10%。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒11公尺)。相對濕度69%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1885,7 +1765,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏17至20度。稍有寒意。東北風 風速3級(每秒5公尺)。相對濕度76%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速4級(每秒7公尺)。相對濕度77%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1893,7 +1773,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。降雨機率 30%。溫度攝氏16至24度。稍有寒意至舒適。西北風 風速3級(每秒5公尺)。相對濕度72%。</value>
+              <value>多雲時陰短暫雨。降雨機率 30%。溫度攝氏16至24度。稍有寒意至舒適。偏北風 風速3級(每秒4公尺)。相對濕度72%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1901,7 +1781,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。西南風 風速3級(每秒5公尺)。相對濕度90%。</value>
+              <value>陰短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。偏南風 風速4級(每秒6公尺)。相對濕度89%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1909,7 +1789,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨。溫度攝氏16至22度。稍有寒意至舒適。西北風 風速2級(每秒3公尺)。相對濕度74%。</value>
+              <value>多雲短暫陣雨或雷雨。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度87%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1917,7 +1797,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏16至19度。稍有寒意。偏西風 風速3級(每秒4公尺)。相對濕度80%。</value>
+              <value>多雲短暫雨。溫度攝氏16至19度。稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度88%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1925,7 +1805,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏16至21度。稍有寒意至舒適。西南風 風速3級(每秒5公尺)。相對濕度75%。</value>
+              <value>晴時多雲。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速5級(每秒8公尺)。相對濕度78%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1933,7 +1813,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。溫度攝氏16至19度。稍有寒意。偏西風 風速4級(每秒6公尺)。相對濕度82%。</value>
+              <value>多雲。溫度攝氏16至19度。稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度80%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1941,7 +1821,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>陰時多雲。溫度攝氏16至21度。稍有寒意至舒適。東北風 風速4級(每秒7公尺)。相對濕度80%。</value>
+              <value>多雲。溫度攝氏16至21度。稍有寒意至舒適。東北風 風速5級(每秒8公尺)。相對濕度84%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1949,7 +1829,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。溫度攝氏16至18度。稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度91%。</value>
+              <value>晴時多雲。溫度攝氏17至19度。稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度85%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1957,7 +1837,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏16至21度。寒冷至舒適。東北風 風速5級(每秒8公尺)。相對濕度82%。</value>
+              <value>晴時多雲。溫度攝氏16至21度。稍有寒意至舒適。偏北風 風速3級(每秒4公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1965,7 +1845,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速4級(每秒7公尺)。相對濕度92%。</value>
+              <value>晴時多雲。溫度攝氏16至19度。稍有寒意。偏北風 風速3級(每秒4公尺)。相對濕度92%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1980,18 +1860,10 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>18</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2079,7 +1951,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2095,7 +1967,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2104,15 +1976,7 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>16</value>
@@ -2123,7 +1987,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2131,7 +1995,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2163,7 +2027,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2171,7 +2035,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2195,7 +2059,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2203,7 +2067,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2219,7 +2083,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2228,18 +2092,10 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>84</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>75</value>
+              <value>69</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2255,7 +2111,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>64</value>
+              <value>69</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2263,7 +2119,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>78</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2279,7 +2135,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>91</value>
+              <value>90</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2287,7 +2143,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>77</value>
+              <value>87</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2295,7 +2151,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>82</value>
+              <value>89</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2303,7 +2159,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>77</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2311,7 +2167,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>84</value>
+              <value>82</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2319,7 +2175,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>83</value>
+              <value>86</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2327,7 +2183,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>91</value>
+              <value>87</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2352,15 +2208,7 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>21</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>23</value>
@@ -2427,7 +2275,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2435,7 +2283,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2443,7 +2291,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2451,7 +2299,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2476,18 +2324,10 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2559,7 +2399,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2567,7 +2407,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2575,7 +2415,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2583,7 +2423,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2591,7 +2431,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2600,18 +2440,10 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>18</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2635,7 +2467,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2643,7 +2475,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>23</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2651,7 +2483,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2659,7 +2491,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2667,7 +2499,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2675,7 +2507,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2683,7 +2515,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2691,7 +2523,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2699,7 +2531,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2707,7 +2539,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2715,7 +2547,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2724,15 +2556,7 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -2743,7 +2567,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>9</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2751,7 +2575,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>9</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2759,7 +2583,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2775,7 +2599,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2783,7 +2607,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2791,7 +2615,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2799,7 +2623,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2807,7 +2631,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2823,7 +2647,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2831,7 +2655,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2839,7 +2663,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>11</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2848,15 +2672,7 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>20</value>
-              <measures>NA </measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>22</value>
@@ -2907,7 +2723,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -2923,7 +2739,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -2939,7 +2755,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -2972,18 +2788,10 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>19</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -2999,7 +2807,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3047,7 +2855,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3055,7 +2863,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3063,7 +2871,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3071,7 +2879,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3079,7 +2887,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3087,7 +2895,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3096,15 +2904,7 @@
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>0</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
@@ -3220,15 +3020,7 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>8方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
@@ -3263,7 +3055,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>西南風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3271,7 +3063,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>偏南風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3279,7 +3071,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3287,7 +3079,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3295,7 +3087,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3303,7 +3095,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3311,7 +3103,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>偏北風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3327,7 +3119,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>東北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3335,7 +3127,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>東北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -3344,19 +3136,7 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>&gt;= 11</value>
@@ -3382,6 +3162,54 @@
           <time>
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>&gt;= 11</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&gt;= 6</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-09T18:00:00+08:00</startTime>
+            <endTime>2021-02-10T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>8</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-10T06:00:00+08:00</startTime>
+            <endTime>2021-02-10T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>3</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-10T18:00:00+08:00</startTime>
+            <endTime>2021-02-11T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>7</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-11T06:00:00+08:00</startTime>
+            <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
               <measures>公尺/秒</measures>
@@ -3392,62 +3220,14 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2021-02-09T18:00:00+08:00</startTime>
-            <endTime>2021-02-10T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>6</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-10T06:00:00+08:00</startTime>
-            <endTime>2021-02-10T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-10T18:00:00+08:00</startTime>
-            <endTime>2021-02-11T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-11T06:00:00+08:00</startTime>
-            <endTime>2021-02-11T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>7</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3455,11 +3235,11 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>8</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3467,11 +3247,11 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>6</value>
+              <value>8</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3479,7 +3259,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
@@ -3491,11 +3271,11 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>6</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3503,11 +3283,11 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>5</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3515,11 +3295,11 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -3528,19 +3308,7 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>02</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
@@ -3555,11 +3323,11 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>02</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3567,11 +3335,11 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>03</value>
+              <value>04</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3591,11 +3359,11 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>多雲時陰短暫雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>09</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3603,11 +3371,11 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨</value>
+              <value>陰短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>15</value>
+              <value>18</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3615,11 +3383,11 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨</value>
+              <value>多雲短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>15</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3639,41 +3407,17 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
           <time>
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>04</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-13T06:00:00+08:00</startTime>
-            <endTime>2021-02-13T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>陰時多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>06</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-13T18:00:00+08:00</startTime>
-            <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
               <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
@@ -3684,14 +3428,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2021-02-14T06:00:00+08:00</startTime>
-            <endTime>2021-02-14T18:00:00+08:00</endTime>
+            <startTime>2021-02-13T06:00:00+08:00</startTime>
+            <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-13T18:00:00+08:00</startTime>
+            <endTime>2021-02-14T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>晴時多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>02</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-14T06:00:00+08:00</startTime>
+            <endTime>2021-02-14T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>晴時多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -3712,7 +3480,7 @@
           <elementName>UVI</elementName>
           <description>紫外線指數</description>
           <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>6</value>
@@ -3727,7 +3495,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -3739,7 +3507,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -3751,7 +3519,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -3775,7 +3543,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -3787,7 +3555,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -3800,18 +3568,10 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏16至21度。稍有寒意至舒適。東北風 風速3級(每秒5公尺)。相對濕度84%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒14公尺)。相對濕度75%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏20至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒14公尺)。相對濕度69%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3819,7 +3579,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度71%。</value>
+              <value>多雲時晴。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度71%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3827,7 +3587,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。降雨機率 10%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速5級(每秒10公尺)。相對濕度64%。</value>
+              <value>多雲。降雨機率 10%。溫度攝氏16至23度。寒冷至舒適。東北風 風速&gt;= 6級(每秒12公尺)。相對濕度69%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3835,7 +3595,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 20%。溫度攝氏16至20度。稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度78%。</value>
+              <value>晴時多雲。降雨機率 20%。溫度攝氏16至20度。稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3843,7 +3603,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。降雨機率 30%。溫度攝氏16至24度。稍有寒意至舒適。西北風 風速3級(每秒5公尺)。相對濕度76%。</value>
+              <value>多雲時陰短暫雨。降雨機率 30%。溫度攝氏16至24度。稍有寒意至舒適。西南風 風速3級(每秒4公尺)。相對濕度76%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3851,7 +3611,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。西南風 風速3級(每秒5公尺)。相對濕度91%。</value>
+              <value>陰短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。偏南風 風速4級(每秒7公尺)。相對濕度90%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3859,7 +3619,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨。溫度攝氏16至22度。稍有寒意至舒適。西北風 風速3級(每秒4公尺)。相對濕度77%。</value>
+              <value>多雲短暫陣雨或雷雨。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速5級(每秒10公尺)。相對濕度87%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3867,7 +3627,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏16至19度。稍有寒意。偏西風 風速3級(每秒4公尺)。相對濕度82%。</value>
+              <value>多雲短暫雨。溫度攝氏16至19度。稍有寒意。東北風 風速4級(每秒7公尺)。相對濕度89%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3875,7 +3635,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏16至21度。稍有寒意至舒適。西南風 風速3級(每秒5公尺)。相對濕度77%。</value>
+              <value>晴時多雲。溫度攝氏16至22度。寒冷至舒適。東北風 風速5級(每秒8公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3883,7 +3643,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。溫度攝氏15至18度。寒冷至稍有寒意。偏西風 風速4級(每秒6公尺)。相對濕度84%。</value>
+              <value>多雲時晴。溫度攝氏16至19度。稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3891,7 +3651,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>陰時多雲。溫度攝氏15至21度。寒冷至舒適。偏北風 風速5級(每秒8公尺)。相對濕度83%。</value>
+              <value>多雲。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度86%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3899,7 +3659,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速5級(每秒9公尺)。相對濕度91%。</value>
+              <value>晴時多雲。溫度攝氏16至19度。稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度87%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3907,7 +3667,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏15至21度。寒冷至舒適。東北風 風速5級(每秒9公尺)。相對濕度84%。</value>
+              <value>晴時多雲。溫度攝氏16至21度。稍有寒意至舒適。偏北風 風速3級(每秒5公尺)。相對濕度84%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3915,7 +3675,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度92%。</value>
+              <value>晴時多雲。溫度攝氏16至18度。稍有寒意。偏北風 風速3級(每秒4公尺)。相對濕度92%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -3930,18 +3690,10 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>18</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -3965,7 +3717,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4013,7 +3765,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4021,7 +3773,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4029,7 +3781,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4054,15 +3806,7 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>15</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>16</value>
@@ -4081,7 +3825,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4113,7 +3857,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4121,7 +3865,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4145,7 +3889,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4169,7 +3913,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4178,18 +3922,10 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>86</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>75</value>
+              <value>69</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4197,7 +3933,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>76</value>
+              <value>74</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4205,7 +3941,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>66</value>
+              <value>70</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4213,7 +3949,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>80</value>
+              <value>82</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4221,7 +3957,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>77</value>
+              <value>78</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4237,7 +3973,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>78</value>
+              <value>87</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4245,7 +3981,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>84</value>
+              <value>90</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4253,7 +3989,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>78</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4261,7 +3997,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>87</value>
+              <value>84</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4269,7 +4005,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>84</value>
+              <value>87</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4277,7 +4013,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>90</value>
+              <value>88</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4285,7 +4021,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>84</value>
+              <value>85</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4293,7 +4029,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>91</value>
+              <value>93</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -4302,15 +4038,7 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>20</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>23</value>
@@ -4337,7 +4065,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4377,7 +4105,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4393,7 +4121,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>21</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4426,18 +4154,10 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4461,7 +4181,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4469,7 +4189,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4525,7 +4245,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4541,7 +4261,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4550,18 +4270,10 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>17</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4593,7 +4305,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>23</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4601,7 +4313,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4609,7 +4321,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>22</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4617,7 +4329,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4625,7 +4337,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4633,7 +4345,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>17</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4641,7 +4353,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>18</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4649,7 +4361,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4657,7 +4369,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4665,7 +4377,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4674,15 +4386,7 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>15</value>
-              <measures>攝氏度</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>14</value>
@@ -4693,7 +4397,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>9</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4701,7 +4405,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>9</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4709,7 +4413,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4725,7 +4429,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4733,7 +4437,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4741,7 +4445,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4749,7 +4453,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>13</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4757,7 +4461,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4765,7 +4469,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>12</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4773,7 +4477,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4781,7 +4485,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4789,7 +4493,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -4798,15 +4502,7 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>19</value>
-              <measures>NA </measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>22</value>
@@ -4833,7 +4529,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>19</value>
+              <value>18</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -4857,7 +4553,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -4873,7 +4569,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -4889,7 +4585,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>20</value>
+              <value>21</value>
               <measures>NA </measures>
             </elementValue>
           </time>
@@ -4922,18 +4618,10 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>16</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>15</value>
+              <value>19</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -4957,7 +4645,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -4965,7 +4653,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>16</value>
+              <value>15</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5037,7 +4725,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>14</value>
+              <value>15</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5046,15 +4734,7 @@
           <elementName>PoP12h</elementName>
           <description>12小時降雨機率</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>0</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
@@ -5170,15 +4850,7 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>東北風</value>
-              <measures>8方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
@@ -5205,7 +4877,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏東風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5213,7 +4885,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>西南風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5229,7 +4901,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5237,7 +4909,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5245,7 +4917,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5253,7 +4925,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5261,7 +4933,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>偏北風</value>
+              <value>東北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5277,7 +4949,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>東北風</value>
+              <value>偏北風</value>
               <measures>8方位</measures>
             </elementValue>
           </time>
@@ -5294,19 +4966,7 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>&gt;= 11</value>
@@ -5332,6 +4992,54 @@
           <time>
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>&gt;= 11</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&gt;= 6</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-09T18:00:00+08:00</startTime>
+            <endTime>2021-02-10T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>7</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-10T06:00:00+08:00</startTime>
+            <endTime>2021-02-10T18:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>3</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-10T18:00:00+08:00</startTime>
+            <endTime>2021-02-11T06:00:00+08:00</endTime>
+            <elementValue>
+              <value>7</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2021-02-11T06:00:00+08:00</startTime>
+            <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
               <value>10</value>
               <measures>公尺/秒</measures>
@@ -5342,62 +5050,14 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2021-02-09T18:00:00+08:00</startTime>
-            <endTime>2021-02-10T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>6</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>4</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-10T06:00:00+08:00</startTime>
-            <endTime>2021-02-10T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-10T18:00:00+08:00</startTime>
-            <endTime>2021-02-11T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-11T06:00:00+08:00</startTime>
-            <endTime>2021-02-11T18:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>7</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5405,11 +5065,11 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5417,11 +5077,11 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>3</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5429,7 +5089,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
@@ -5441,11 +5101,11 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>6</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5453,11 +5113,11 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>9</value>
+              <value>5</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5465,11 +5125,11 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>5</value>
+              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -5478,19 +5138,7 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>02</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
@@ -5517,11 +5165,11 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>03</value>
+              <value>04</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5541,11 +5189,11 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨</value>
+              <value>多雲時陰短暫雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>09</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5553,11 +5201,11 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨</value>
+              <value>陰時多雲短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>15</value>
+              <value>17</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5565,11 +5213,11 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨</value>
+              <value>多雲短暫陣雨或雷雨</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
+              <value>15</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5589,11 +5237,11 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5601,11 +5249,11 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5613,11 +5261,11 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時陰</value>
+              <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>05</value>
+              <value>04</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5625,11 +5273,11 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>03</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5637,11 +5285,11 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>02</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -5662,7 +5310,7 @@
           <elementName>UVI</elementName>
           <description>紫外線指數</description>
           <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
               <value>6</value>
@@ -5677,7 +5325,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -5689,7 +5337,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>5</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -5701,7 +5349,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -5725,7 +5373,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -5737,7 +5385,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -5750,18 +5398,10 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2021-02-07T18:00:00+08:00</startTime>
-            <endTime>2021-02-08T06:00:00+08:00</endTime>
-            <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏16至20度。稍有寒意。東北風 風速3級(每秒5公尺)。相對濕度86%。</value>
-              <measures>NA</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2021-02-08T06:00:00+08:00</startTime>
+            <startTime>2021-02-08T12:00:00+08:00</startTime>
             <endTime>2021-02-08T18:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至23度。寒冷至舒適。東北風 風速&gt;= 6級(每秒14公尺)。相對濕度75%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏20至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒14公尺)。相對濕度69%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5769,7 +5409,7 @@
             <startTime>2021-02-08T18:00:00+08:00</startTime>
             <endTime>2021-02-09T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度76%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度74%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5777,7 +5417,7 @@
             <startTime>2021-02-09T06:00:00+08:00</startTime>
             <endTime>2021-02-09T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。降雨機率 10%。溫度攝氏16至23度。寒冷至舒適。東北風 風速5級(每秒10公尺)。相對濕度66%。</value>
+              <value>多雲。降雨機率 10%。溫度攝氏16至23度。寒冷至舒適。東北風 風速&gt;= 6級(每秒12公尺)。相對濕度70%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5785,7 +5425,7 @@
             <startTime>2021-02-09T18:00:00+08:00</startTime>
             <endTime>2021-02-10T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏16至20度。稍有寒意。偏東風 風速4級(每秒6公尺)。相對濕度80%。</value>
+              <value>晴時多雲。降雨機率 10%。溫度攝氏15至19度。寒冷至稍有寒意。東北風 風速4級(每秒7公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5793,7 +5433,7 @@
             <startTime>2021-02-10T06:00:00+08:00</startTime>
             <endTime>2021-02-10T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。降雨機率 30%。溫度攝氏16至23度。稍有寒意至舒適。西北風 風速3級(每秒5公尺)。相對濕度77%。</value>
+              <value>多雲時陰短暫雨。降雨機率 30%。溫度攝氏15至23度。寒冷至舒適。西南風 風速3級(每秒4公尺)。相對濕度78%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5801,7 +5441,7 @@
             <startTime>2021-02-10T18:00:00+08:00</startTime>
             <endTime>2021-02-11T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。西南風 風速3級(每秒5公尺)。相對濕度91%。</value>
+              <value>陰時多雲短暫陣雨或雷雨。降雨機率 90%。溫度攝氏16至20度。稍有寒意。西南風 風速4級(每秒7公尺)。相對濕度91%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5809,7 +5449,7 @@
             <startTime>2021-02-11T06:00:00+08:00</startTime>
             <endTime>2021-02-11T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨。溫度攝氏16至22度。稍有寒意至舒適。西北風 風速3級(每秒4公尺)。相對濕度78%。</value>
+              <value>多雲短暫陣雨或雷雨。溫度攝氏16至22度。稍有寒意至舒適。東北風 風速5級(每秒10公尺)。相對濕度87%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5817,7 +5457,7 @@
             <startTime>2021-02-11T18:00:00+08:00</startTime>
             <endTime>2021-02-12T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫雨。溫度攝氏15至18度。寒冷至稍有寒意。偏西風 風速3級(每秒4公尺)。相對濕度84%。</value>
+              <value>多雲短暫雨。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速4級(每秒7公尺)。相對濕度90%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5825,7 +5465,7 @@
             <startTime>2021-02-12T06:00:00+08:00</startTime>
             <endTime>2021-02-12T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。溫度攝氏15至21度。寒冷至舒適。西南風 風速3級(每秒5公尺)。相對濕度78%。</value>
+              <value>晴時多雲。溫度攝氏15至22度。寒冷至舒適。東北風 風速5級(每秒9公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5833,7 +5473,7 @@
             <startTime>2021-02-12T18:00:00+08:00</startTime>
             <endTime>2021-02-13T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。溫度攝氏15至18度。寒冷至稍有寒意。偏西風 風速3級(每秒5公尺)。相對濕度87%。</value>
+              <value>晴時多雲。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速5級(每秒9公尺)。相對濕度84%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5841,7 +5481,7 @@
             <startTime>2021-02-13T06:00:00+08:00</startTime>
             <endTime>2021-02-13T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時陰。溫度攝氏15至21度。寒冷至舒適。偏北風 風速5級(每秒8公尺)。相對濕度84%。</value>
+              <value>多雲。溫度攝氏15至22度。寒冷至舒適。東北風 風速5級(每秒9公尺)。相對濕度87%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5849,7 +5489,7 @@
             <startTime>2021-02-13T18:00:00+08:00</startTime>
             <endTime>2021-02-14T06:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲時晴。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速5級(每秒9公尺)。相對濕度90%。</value>
+              <value>晴時多雲。溫度攝氏16至18度。寒冷至稍有寒意。東北風 風速4級(每秒6公尺)。相對濕度88%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5857,7 +5497,7 @@
             <startTime>2021-02-14T06:00:00+08:00</startTime>
             <endTime>2021-02-14T18:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。溫度攝氏15至21度。寒冷至舒適。東北風 風速5級(每秒9公尺)。相對濕度84%。</value>
+              <value>晴時多雲。溫度攝氏15至21度。寒冷至舒適。偏北風 風速3級(每秒5公尺)。相對濕度85%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -5865,7 +5505,7 @@
             <startTime>2021-02-14T18:00:00+08:00</startTime>
             <endTime>2021-02-15T06:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。溫度攝氏14至18度。寒冷至稍有寒意。東北風 風速5級(每秒8公尺)。相對濕度91%。</value>
+              <value>晴時多雲。溫度攝氏15至18度。寒冷至稍有寒意。東北風 風速3級(每秒4公尺)。相對濕度93%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
